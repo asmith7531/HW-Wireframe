@@ -8,7 +8,6 @@ body {
     height: 60px;
     text-align: center;
     margin: 10px;
-    
     padding-top:10px
 }
 #nav {
@@ -67,8 +66,10 @@ body {
 }
 #footer {
     background: #ebebeb;
-    width: 495px;
-    margin: 20px;
+    width: auto;
+    margin-top: 325px;
     height: 60px;
-    z-index: 1;
+    z-index: 3;
+    text-align: center;
+    padding-top: 10px;
 }
